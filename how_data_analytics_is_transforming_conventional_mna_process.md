@@ -17,21 +17,24 @@ More often than not, the decision makers blend a healthy amount of 'gut-feel' in
 </p>
 
 <h2> Regular challenges of middle market M&A </h2>
-* Advisors are 'process experts' and not 'sector experts': do not possess 'deep' sector knowledge.
-* Source data (generally management accounts, statutory accounts, general ledger etc.) tend to be high level devoid of insights. 
-* Analysts do not get benefit of adequate macro and micro economic data to make sophisticated models: models tend to be simple with few variables.
-* Timelines are squeezed and the process needs to run quickly with barely couple of weeks available. 
-* Management has a day job besides managing the M&A process and are available only intermittently.
-* Finance and accounts staff does not have much time, and at times skills, to prepare reports required for the M&A analysis.
-* A variety of IT systems used by the company for MIS, ERP, Inventory... resulting in disjointed data posing reconciliation issues.
-* The entire set of data - internal and external - for a proper anlaysis is too big for excel based modelling.
+<ul class="list-1">
+<li> <a> Advisors are 'process experts' and not 'sector experts': do not possess 'deep' sector knowledge. </a> </li>
+<li> <a> Source data (generally management accounts, statutory accounts, general ledger etc.) tend to be high level devoid of insights. </a> </li> 
+<li> <a> Analysts do not get benefit of adequate macro and micro economic data to make sophisticated models: models tend to be simple with few variables. </a> </li>
+<li> <a> Timelines are squeezed and the process needs to run quickly with barely couple of weeks available.  </a> </li>
+<li> <a> Management has a day job besides managing the M&A process and are available only intermittently. </a> </li>
+<li> <a> Finance and accounts staff does not have much time, and at times skills, to prepare reports required for the M&A analysis. </a> </li>
+<li> <a> A variety of IT systems used by the company for MIS, ERP, Inventory... resulting in disjointed data posing reconciliation issues. </a> </li>
+<li> <a> The entire set of data - internal and external - for a proper anlaysis is too big for excel based modelling. </a> </li>
+</ul>
 
 <h2> Conventional Data Handling Process </h2>
 <h3> Management accounts collected from the company </h3>
 
-* Typically the reports collected include historical audited and management financials, high level descriptive metrics on manufacturing, products, distribution and/ or sales. 
-* Most of the valuable data of the company is locked in department disjointed IT systems and cannot be shared in a form that presents insights. 
-
+<ul class="list-1">
+<li><a> Typically the reports collected include historical audited and management financials, high level descriptive metrics on manufacturing, products, distribution and/ or sales. </a> </li> 
+<li><a> Most of the valuable data of the company is locked in department disjointed IT systems and cannot be shared in a form that presents insights. </a> </li>
+</ul>
 <h3> Processing and reconciliation of data </h3>
 
 * A variety of IT systems used by the company for MIS, ERP, Inventory, Payroll, Accounts result in disjointed data posing reconciliation issues.
