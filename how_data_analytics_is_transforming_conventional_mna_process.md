@@ -4,6 +4,10 @@ layout: pages
 ---
 
 <section id="content">
+ <div class="container">
+  <div class="row">
+   <div class="grid_12">
+
 Data forms bedrock of Mergers and Acquisitions (M&A) process. The M&A decisions tend to be transformatory in nature, largely irreversible and unforgiving for mistakes mades. Still, the timeframes are almost always tight and resources get stretched. Most of the time gets spent on collecting and organizing data and only limited insights come out. The problem is more pronounced in the Middle Market where both the seller and buyer are grossly underprepared.
 
 More often than not, the decision makers blend a healthy amount of 'gut-feel' into the limited visibility that they hold and make crutial transformative decisions. They do not come to know the real story behind the numbers until they are in midst of post-deal transition.
@@ -85,4 +89,8 @@ We have deep understanding of the M&A process, corporate finance, valuation mode
 Our team has significant experience both on the buy-side as well as the sell-side transactions, process management for corporate in-house M&A teams, marquee global M&A advisory firms as well as leading regional boutique M&A firms.
 We have a experience in data rich regions of USA & Europe as well as data challenged regions of the Middle Eastern, African & Asian countries.
 We have developed a rich repository of complex statistical models to ‘deep dive’ into raw data and develop insights within matter of days.
+
+</div>
+</div>
+</div>
 </section>
