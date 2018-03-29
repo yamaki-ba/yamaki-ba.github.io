@@ -15,7 +15,7 @@ Data forms bedrock of Mergers and Acquisitions (M&A) process. The M&A decisions 
 <p>
 More often than not, the decision makers blend a healthy amount of 'gut-feel' into the limited visibility that they hold and make crutial transformative decisions. They do not come to know the real story behind the numbers until they are in midst of post-deal transition.
 </p>
-
+<br>
 <h2> Regular challenges of middle market M&A </h2>
 <ul class="list-1">
 <li> <a> Advisors are 'process experts' and not 'sector experts': do not possess 'deep' sector knowledge. </a> </li>
@@ -28,6 +28,7 @@ More often than not, the decision makers blend a healthy amount of 'gut-feel' in
 <li> <a> The entire set of data - internal and external - for a proper anlaysis is too big for excel based modelling. </a> </li>
 </ul>
 
+<br>
 <h2> Conventional Data Handling Process </h2>
 <h3> Management accounts collected from the company </h3>
 
@@ -35,6 +36,8 @@ More often than not, the decision makers blend a healthy amount of 'gut-feel' in
 <li><a> Typically the reports collected include historical audited and management financials, high level descriptive metrics on manufacturing, products, distribution and/ or sales. </a> </li> 
 <li><a> Most of the valuable data of the company is locked in department disjointed IT systems and cannot be shared in a form that presents insights. </a> </li>
 </ul>
+
+<br>
 <h3> Processing and reconciliation of data </h3>
 
 <ul class="list-1">
@@ -45,14 +48,16 @@ More often than not, the decision makers blend a healthy amount of 'gut-feel' in
 <li><a> The entire set of data, internal and external, for a proper anlaysis is too big for excel based modelling. </a> </li>
 </ul>
 
+
 <h3> Findings accumulated and summarized </h3>
 <ul class="list-1">
 <li><a> Final output provides limited insights into the company since it is based on 'high level' management and statutory reports.</a> </li>
 <li><a> It is primarily used to produce customary documentation.</a> </li>
 </ul>
 
+<br>
 <blockquote class="bq1"> Data Analytics Enables Power to Turn the Conventional Model on its Head... </blockquote>
-
+<br>
 
 <h3> Answer Most Important Questions Without Asking </h3>
 <ul class="list-1">
