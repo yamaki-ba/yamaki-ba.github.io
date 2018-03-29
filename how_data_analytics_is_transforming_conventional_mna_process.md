@@ -164,15 +164,20 @@ layout: pages
 </div>
 </article>
 
-<h2> About Bizness Analytics </h2>
-Bizness Analytics Inc is a data analytics services firm providing managed data science services to its global client portfolio.
+<article class="content_gray offset__1">
+<div class="container">
+<div class="row">
+<div class="grid_12">
 
-iDEALytix M&A Analytics Suite
-Our Credentials
-We have deep understanding of the M&A process, corporate finance, valuation modelling as well as the regular and not-so-regular challenges encountered in the due diligence process.
-Our team has significant experience both on the buy-side as well as the sell-side transactions, process management for corporate in-house M&A teams, marquee global M&A advisory firms as well as leading regional boutique M&A firms.
-We have a experience in data rich regions of USA & Europe as well as data challenged regions of the Middle Eastern, African & Asian countries.
-We have developed a rich repository of complex statistical models to ‘deep dive’ into raw data and develop insights within matter of days.
+   <h2> About Bizness Analytics </h2>
+   Bizness Analytics Inc is a data analytics services firm providing managed data science services to its global client portfolio.
+
+   iDEALytix M&A Analytics Suite
+   Our Credentials
+   We have deep understanding of the M&A process, corporate finance, valuation modelling as well as the regular and not-so-regular challenges encountered in the due diligence process.
+   Our team has significant experience both on the buy-side as well as the sell-side transactions, process management for corporate in-house M&A teams, marquee global M&A advisory firms as well as leading regional boutique M&A firms.
+   We have a experience in data rich regions of USA & Europe as well as data challenged regions of the Middle Eastern, African & Asian countries.
+   We have developed a rich repository of complex statistical models to ‘deep dive’ into raw data and develop insights within matter of days.
 
 </div>
 </div>
