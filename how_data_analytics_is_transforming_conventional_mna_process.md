@@ -37,55 +37,61 @@ More often than not, the decision makers blend a healthy amount of 'gut-feel' in
 </ul>
 <h3> Processing and reconciliation of data </h3>
 
-* A variety of IT systems used by the company for MIS, ERP, Inventory, Payroll, Accounts result in disjointed data posing reconciliation issues.
-* Companies do not analyze most of their internal data.
-* Companies generally do not possess context data for their internal data
-* The entire set of data, internal and external, for a proper anlaysis is too big for excel based modelling.
+<ul class="list-1">
+
+<li><a> A variety of IT systems used by the company for MIS, ERP, Inventory, Payroll, Accounts result in disjointed data posing reconciliation issues.
+<li><a> Companies do not analyze most of their internal data.</a> </li>
+<li><a> Companies generally do not possess context data for their internal data. </a> </li>
+<li><a> The entire set of data, internal and external, for a proper anlaysis is too big for excel based modelling. </a> </li>
+</ul>
 
 <h3> Findings accumulated and summarized </h3>
-* Final output provides limited insights into the company since it is based on 'high level' management and statutory reports.
-* It is primarily used to produce customary documentation.
+<ul class="list-1">
+<li><a> Final output provides limited insights into the company since it is based on 'high level' management and statutory reports.</a> </li>
+<li><a> It is primarily used to produce customary documentation.</a> </li>
+</ul>
 
-
-
-> **Data Analytics Enables Power to Turn the Conventional Model on its Head...**
-
+<blockquote class="bq1"> Data Analytics Enables Power to Turn the Conventional Model on its Head... </blockquote>
 
 
 <h3> Answer Most Important Questions Without Asking </h3>
-* Which revenue segment is contributing how much to profitability?
-* Are there any region-wise characteristics? Seasonalities? 
-* What are the trends of product velocities?
-* Which are the star products, in which regions?
-* How successful the company has been with new launches? 
-* Where is growth coming from? Are new locations profitable? How are like for like trends?
-* How much more growth can come from existing customer base?
-* How efficient is company purchasing?
-* How much vendor consolidation impacting profitability?
-* How are competitors growth affecting performance?
-* How is the brand percieved in the market? What are customer sentiments about company products? 
-* ...and many more.
+<ul class="list-1">
+<li><a> Which revenue segment is contributing how much to profitability?</a> </li>
+<li><a> Are there any region-wise characteristics? Seasonalities? </a> </li>
+<li><a> What are the trends of product velocities?</a> </li>
+<li><a> Which are the star products, in which regions?</a> </li>
+<li><a> How successful the company has been with new launches? </a> </li>
+<li><a> Where is growth coming from? Are new locations profitable? How are like for like trends?</a> </li>
+<li><a> How much more growth can come from existing customer base?</a> </li>
+<li><a> How efficient is company purchasing?</a> </li>
+<li><a> How much vendor consolidation impacting profitability?</a> </li>
+<li><a> How are competitors growth affecting performance?</a> </li>
+<li><a> How is the brand percieved in the market? What are customer sentiments about company products?</a> </li> 
+<li><a> ...and many more.</a> </li>
+</ul>
 
 <h3> And Dive Deeper... </h3>
-* Which customer segments are driving growth and profitability?
-* Are fastest growing segments buying high or low margin products?
-* What is the customer churn rate?
-* Why is company losing market share?
-* How much customer base needs to be replaced to maintain growth rate?
-* What percentage of the product base is stable year on year?
-* How fast is the growth or decline of various segments?
-* Which products are attracting new customers?
-* Which products have affinity with each other? Is it fully exploited?
-* Is the company listening to its customers?
-* Is every part of the company aligned at the point of impact?
-* How empowered and efficient are the merchandising, sales and stocking teams?
-* And many more...
-
+<ul class="list-1">
+<li><a> Which customer segments are driving growth and profitability?</a> </li>
+<li><a> Are fastest growing segments buying high or low margin products?</a> </li>
+<li><a> What is the customer churn rate?</a> </li>
+<li><a> Why is company losing market share?</a> </li>
+<li><a> How much customer base needs to be replaced to maintain growth rate?</a> </li>
+<li><a> What percentage of the product base is stable year on year?</a> </li>
+<li><a> How fast is the growth or decline of various segments?</a> </li>
+<li><a> Which products are attracting new customers?</a> </li>
+<li><a> Which products have affinity with each other? Is it fully exploited?</a> </li>
+<li><a> Is the company listening to its customers?</a> </li>
+<li><a> Is every part of the company aligned at the point of impact?</a> </li>
+<li><a> How empowered and efficient are the merchandising, sales and stocking teams?</a> </li>
+<li><a> And many more...</a> </li>
+</ul>
 <h2> What are the benefits? </h2>
-* Less time asking questions.
-* More time to find value added insights.
-* More confident decision making for otherwise 'unforgivable' move. 
-
+<ul class="list-1">
+<li><a> Less time asking questions.</a> </li>
+<li><a> More time to find value added insights.</a> </li>
+<li><a> More confident decision making for otherwise 'unforgivable' move.</a> </li> 
+</ul>
 
 <h2> About Bizness Analytics </h2>
 Bizness Analytics Inc is a data analytics services firm providing managed data science services to its global client portfolio.
