@@ -23,6 +23,7 @@ layout: pages
 
 <div class="container">
 <div class="row">
+<div class="grid_12">
          
   <h2> Regular challenges of middle market M&A </h2>
   <ul class="list-1">
@@ -36,6 +37,7 @@ layout: pages
   <li> <a> The entire set of data - internal and external - for a proper anlaysis is too big for excel based modelling. </a> </li>
   </ul>
 
+</div>
 </div>
 </div>
 
