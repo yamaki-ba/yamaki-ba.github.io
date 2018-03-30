@@ -16,7 +16,6 @@ layout: pages
 
 </div>
 
-<article class="content_gray offset__1">
 <div class="container">
 <div class="row">
          
@@ -34,7 +33,6 @@ layout: pages
 
 </div>
 </div>
-</article>
 
 
 <article class="content_gray offset__1">
