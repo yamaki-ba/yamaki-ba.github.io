@@ -4,8 +4,8 @@ layout: pages
 ---
 
 <section id="content">
-   
 <div class="container">
+
 <div class="row">
 
    <p>
@@ -33,14 +33,8 @@ layout: pages
   </ul>
 
 </div>
-</div>
-</div>
 
-
-<article class="content_gray offset__1">
-<div class="container">
 <div class="row">
-<div class="grid_12">
 
   <h2> Conventional Data Handling Process </h2>
   <h3> Management accounts collected from the company </h3>
@@ -51,15 +45,9 @@ layout: pages
   </ul>
 
 </div>
-</div>
-</div>
-</article>
 
 
-<article class="content_gray offset__1">
-<div class="container">
 <div class="row">
-<div class="grid_12">
 
    <h3> Processing and reconciliation of data </h3>
 
@@ -79,18 +67,12 @@ layout: pages
    </ul>
 
 </div>
-</div>
-</div>
-</article>
 
 
 <blockquote class="bq1"> Data Analytics Enables Power to Turn the Conventional Model on its Head... </blockquote>
 <br>
 
-<article class="content_gray offset__1">
-<div class="container">
 <div class="row">
-<div class="grid_12">
 
     <h3> Answer Most Important Questions Without Asking </h3>
     <ul class="list-1">
@@ -109,14 +91,8 @@ layout: pages
     </ul>
 
 </div>
-</div>
-</div>
-</article>
 
-<article class="content_gray offset__1">
-<div class="container">
 <div class="row">
-<div class="grid_12">
 
    <h3> And Dive Deeper... </h3>
    <ul class="list-1">
@@ -136,14 +112,8 @@ layout: pages
    </ul>
 
 </div>
-</div>
-</div>
-</article>
 
-<article class="content_gray offset__1">
-<div class="container">
 <div class="row">
-<div class="grid_12">
 
  <h2> What are the benefits? </h2>
  <ul class="list-1">
@@ -152,11 +122,10 @@ layout: pages
  <li><a> More confident decision making for otherwise 'unforgivable' move.</a> </li> 
  </ul>
 
+</div>
+</div>
+</section>
 
-</div>
-</div>
-</div>
-</article>
 
 <article class="content_gray offset__1">
 <div class="container">
@@ -176,4 +145,4 @@ layout: pages
 </div>
 </div>
 </div>
-</section>
+</article>
