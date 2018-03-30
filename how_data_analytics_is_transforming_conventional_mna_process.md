@@ -4,7 +4,10 @@ layout: pages
 ---
 
 <section id="content">
-   <div class="grid_12">
+<div class="container">
+<div class="row">
+<div class="grid_12">
+
 
    <p>
    Data forms bedrock of Mergers and Acquisitions (M&A) process. The M&A decisions tend to be transformatory in nature, largely irreversible and unforgiving for mistakes mades. Still, the timeframes are almost always tight and resources get stretched. Most of the time gets spent on collecting and organizing data and only limited insights come out. The problem is more pronounced in the Middle Market where both the seller and buyer are grossly underprepared.
@@ -14,6 +17,8 @@ layout: pages
    More often than not, the decision makers blend a healthy amount of 'gut-feel' into the limited visibility that they hold and make crutial transformative decisions. They do not come to know the real story behind the numbers until they are in midst of post-deal transition.
    </p>
 
+</div>
+</div>
 </div>
 
 <div class="container">
