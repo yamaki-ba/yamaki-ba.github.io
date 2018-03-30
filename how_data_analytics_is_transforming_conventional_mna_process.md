@@ -19,9 +19,7 @@ layout: pages
 
 </div>
 </div>
-</div>
 
-<div class="container">
 <div class="row">
 <div class="grid_12">
          
