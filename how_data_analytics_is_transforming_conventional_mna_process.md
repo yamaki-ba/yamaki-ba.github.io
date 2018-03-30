@@ -4,10 +4,9 @@ layout: pages
 ---
 
 <section id="content">
+   
 <div class="container">
 <div class="row">
-<div class="grid_12">
-
 
    <p>
    Data forms bedrock of Mergers and Acquisitions (M&A) process. The M&A decisions tend to be transformatory in nature, largely irreversible and unforgiving for mistakes mades. Still, the timeframes are almost always tight and resources get stretched. Most of the time gets spent on collecting and organizing data and only limited insights come out. The problem is more pronounced in the Middle Market where both the seller and buyer are grossly underprepared.
@@ -18,10 +17,8 @@ layout: pages
    </p>
 
 </div>
-</div>
 
 <div class="row">
-<div class="grid_12">
          
   <h2> Regular challenges of middle market M&A </h2>
   <ul class="list-1">
