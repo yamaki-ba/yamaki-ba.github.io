@@ -27,7 +27,7 @@ layout: pages
 
     <div class="row" >
         <div class="grid_12">
- {% youtube "https://www.youtube.com/watch?v=ho8-vK0L1_8" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q8feyHHinxM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
         </div> <!-- End grid_12 -->
     </div> <!-- End Row -->
       
