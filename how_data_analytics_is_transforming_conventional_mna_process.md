@@ -27,7 +27,7 @@ layout: pages
 
     <div class="row" >
         <div class="grid_12">
-
+ {% youtube "https://www.youtube.com/watch?v=ho8-vK0L1_8" %}
         </div> <!-- End grid_12 -->
     </div> <!-- End Row -->
       
