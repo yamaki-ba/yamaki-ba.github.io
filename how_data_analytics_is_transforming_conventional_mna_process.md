@@ -5,7 +5,6 @@ layout: pages
 
 <section id="content">
  <div class="container">
-  <div class="row">
    <div class="grid_12">
 
    <p>
@@ -16,7 +15,6 @@ layout: pages
    More often than not, the decision makers blend a healthy amount of 'gut-feel' into the limited visibility that they hold and make crutial transformative decisions. They do not come to know the real story behind the numbers until they are in midst of post-deal transition.
    </p>
 
-</div>
 </div>
 </div>
 
