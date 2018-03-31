@@ -1,5 +1,5 @@
 ---
-title: How Data Analytics is Transforming Tradtional M&A Process
+title: Locations
 layout: pages
 ---
 
