@@ -152,6 +152,7 @@
 html {
   width: 100%;
 }
+
 a[href^="tel:"] {
   color: inherit;
   text-decoration: none;
@@ -159,6 +160,7 @@ a[href^="tel:"] {
 sss * {
   -webkit-text-size-adjust: none;
 }
+
 body {
   position: relative;
   background: #00b1ba;
@@ -200,6 +202,7 @@ textarea {
 img {
   max-width: 100%;
 }
+
 /****Heads****/
 h1,
 h2,
@@ -241,6 +244,7 @@ h4 {
   padding-top: 60px;
   margin-bottom: 26px;
 }
+
 /****Lists****/
 ul {
   padding: 0;
@@ -275,6 +279,7 @@ ul {
 .cont_address li + li {
   margin-top: 10px;
 }
+
 /****Links****/
 a {
   text-decoration: none;
@@ -384,6 +389,7 @@ a:hover {
 .rel {
   position: relative;
 }
+
 /*header*/
 header {
   color: rgba(0, 177, 186, 1);
@@ -451,6 +457,7 @@ header h1.stuck_head {
 .page1_header .banner:hover {
   background-color: #000000 !important;
 }
+
 /****Content****/
 #content {
   background-color: #fff;
@@ -471,6 +478,7 @@ header h1.stuck_head {
 #content .content_gray.offset__2 h3 {
   margin-bottom: 12px;
 }
+
 /****Non suppage set****/
 .page1 header {
   border-bottom: 1px solid #fff;
@@ -545,7 +553,7 @@ header h1.stuck_head {
 .block-3 {
   margin-top: -2px;
 }
-.block-3 .count {
+.count {
   background-color: #00b1ba;
   color: #ffffff;
   width: 68px;
@@ -835,6 +843,7 @@ a.color1:hover {
   .img_inner.fleft img {
     width: 100%;
   }
+
   header {
     padding-top: 20px;
     padding-bottom: 10px;
