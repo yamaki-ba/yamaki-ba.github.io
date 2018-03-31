@@ -87,5 +87,4 @@ layout: pages
       </div>
 
       </div>
-    </div>
 </section>
