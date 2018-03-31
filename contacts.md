@@ -21,8 +21,8 @@ layout: pages
                         Dubai International Financial Centre, Dubai, 74777, United Arab Emirates</p>
                 </div>
                 <ul class="list-group list-group-flush">
-                        <li class="list-group-item">Phone: +971 50 5533140</li>
-                        <li class="list-group-item">Email: contactus@biznessanalytics.com</li>
+                        <li class="list-group-item"><i class="fas fa-phone"></i>: +971 50 5533140</li>
+                        <li class="list-group-item"><i class="fas fa-envelope"></i>: contactus@biznessanalytics.com</li>
                 </ul>
             </div>
         </div>
@@ -41,8 +41,8 @@ layout: pages
                     <p class="card-text">#51, 15th Cross, HSR Layout, Bangalore, India</p>
                 </div>
                 <ul class="list-group list-group-flush">
-                        <li class="list-group-item">Phone: +91 87622 96941</li>
-                        <li class="list-group-item">Email: contactus@biznessanalytics.com</li>
+                        <li class="list-group-item"><i class="fas fa-phone"></i>: +91 87622 96941</li>
+                        <li class="list-group-item"><i class="fas fa-envelope"></i>: contactus@biznessanalytics.com</li>
                 </ul>
             </div>
         </div>
@@ -57,8 +57,8 @@ layout: pages
                     <p class="card-text">Tulip-629, New Minal, JK Road, Bhopal, India</p>
                 </div>
                 <ul class="list-group list-group-flush">
-                        <li class="list-group-item">Phone: +91 755 268 9049</li>
-                        <li class="list-group-item">Email: contactus@biznessanalytics.com</li>
+                        <li class="list-group-item"><i class="fas fa-phone"></i>: +91 755 268 9049</li>
+                        <li class="list-group-item"><i class="fas fa-envelope"></i>: contactus@biznessanalytics.com</li>
                 </ul>
             </div>
        </div>
@@ -77,8 +77,8 @@ layout: pages
                     <p class="card-text">19 West 34th st., ste. 1018, New York, 10001, USA</p>
                 </div>
                 <ul class="list-group list-group-flush">
-                        <li class="list-group-item">Phone: +1 646 291 8995</li>
-                        <li class="list-group-item">Email: contactus@biznessanalytics.com</li>
+                        <li class="list-group-item"><i class="fas fa-phone"></i>: +1 646 291 8995</li>
+                        <li class="list-group-item"><i class="fas fa-envelope"></i>: contactus@biznessanalytics.com</li>
                 </ul>
             </div>
         </div>        
@@ -93,8 +93,8 @@ layout: pages
                     <p class="card-text">3500, South DuPont Highway, Dover DE 19901, USA</p>
                 </div>
                 <ul class="list-group list-group-flush">
-                        <li class="list-group-item">Phone: +1 646 291 8995</li>
-                        <li class="list-group-item">Email: contactus@biznessanalytics.com</li>
+                        <li class="list-group-item"><i class="fas fa-phone"></i>: +1 646 291 8995</li>
+                        <li class="list-group-item"><i class="fas fa-envelope"></i>: contactus@biznessanalytics.com</li>
                 </ul>
             </div>
         </div>        
