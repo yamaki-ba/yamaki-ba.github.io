@@ -39,7 +39,7 @@ layout: pages
         <div class="grid_12">
           <h3>How can you work with us?</h3>
         </div>
-        <div class="grid_4">
+        <div class="grid_3">
           <div class="block-3">
             <div class="count">1</div>
             <div class="extra_wrapper">
@@ -55,7 +55,7 @@ layout: pages
             </div>
           </div>
         </div>
-        <div class="grid_4">
+        <div class="grid_3">
           <div class="block-3">
             <div class="count">2</div>
             <div class="extra_wrapper">
@@ -70,7 +70,7 @@ layout: pages
             </div>
           </div>
         </div>
-        <div class="grid_4">
+        <div class="grid_3">
           <div class="block-3">
             <div class="count">3</div>
             <div class="extra_wrapper">
