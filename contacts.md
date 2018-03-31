@@ -17,7 +17,7 @@ layout: pages
                 </h4>
                 <div class="card-body">
                 <h5 class="card-title">Address</h5>
-                <p class="card-text">Unit  Office-8 , Office-9 , Level 4, Gate Precinct Building 5 
+                <p class="card-text">Unit  Office-8 , Office-9 , Level 4, Gate Precinct Building 5, 
                         Dubai International Financial Centre, Dubai, 74777, United Arab Emirates</p>
                 </div>
                 <ul class="list-group list-group-flush">
